@@ -1,0 +1,193 @@
+{
+  "categorias": [
+    {
+      "titulo": "Primeira temporada",
+      "link": "/",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Temporada 1: 1986-1990",
+        "url": "https://www.youtube.com/playlist?list=PLXzjDb7kAxilfamEm9LjFS3kMpQZzkLmF"
+      },
+      "videos": [
+        {
+          "titulo": "Pingu",
+          "url": "https://youtu.be/PKn9OvUuQSE"
+        },
+        {
+          "titulo": "S01E01 Hello Pingu",
+          "url": "https://youtu.be/nGXlj4iw4u8"
+        },
+        {
+          "titulo": "S01E02 Pingu Delivers the Mail",
+          "url": "https://youtu.be/X5940s5NKvo"
+        },
+        {
+          "titulo": "S01E03 Pingu Looks After the Egg",
+          "url": "https://youtu.be/F6fi02MUkF8"
+        },
+        {
+          "titulo": "S01E04 The New Arrival",
+          "url": "https://youtu.be/nK-SCzARo-4"
+        },
+        {
+          "titulo": "S01E05 Pingu Goes Fishing",
+          "url": "https://youtu.be/DO5JymfylvQ"
+        },
+        {
+          "titulo": "S01E06 Jealousy",
+          "url": "https://youtu.be/9euRvHSf7rk"
+        },
+        {
+          "titulo": "S01E07 Hide and Seek",
+          "url": "https://youtu.be/WCbODYm7d8o"
+        },       
+        {
+          "titulo": "S01E08 Barrel of Fun",
+          "url": "https://youtu.be/CHHN4Akx1SQ"
+        }, 
+        {
+          "titulo": "S01E09 Pingu Plays Fish Tennis",
+          "url": "https://youtu.be/-U14B6EwKjk"
+        }, 
+        {
+          "titulo": "S01E010 Skiing",
+          "url": "https://youtu.be/rc4OtR2DGTk"
+        }  
+      ]
+    },
+    {
+      "titulo": "Segunda Temporada",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Temporada 2: 1991-1994",
+        "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62tZxS5J9465ScUFLbW8Ou2F"
+      },
+      "videos": [
+        {
+          "titulo": "S02E01 Pingu at the Doctor's",
+          "url": "https://youtu.be/-jTy068ZKZE"
+        },
+        {
+          "titulo": "S02E02 Pingu's Admirer",
+          "url": "https://youtu.be/MX9CKWkQAqE"
+        },
+        {
+          "titulo": "S02E03 Pingu and the Seagull",
+          "url": "https://youtu.be/UKFQPVrAIZk"
+        },
+        {
+          "titulo": "S02E04 Pingu Goes Ice Surfing",
+          "url": "https://youtu.be/mrzHDiP9E9U"
+        }, 
+        {
+          "titulo": "S02E05 Pingu's First Kiss",
+          "url": "https://youtu.be/4z7zjuSvCso"
+        }
+      ]
+    },
+    {
+      "titulo": "Terceira Temporada",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Temporada 3: 1995-1996",
+        "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62tVmLHkz8M67GgNB9rsJRP1"
+      },
+      "videos": [
+        {
+          "titulo": "S03E01 Pingu Goes Cross Country Skiing",
+          "url": "https://youtu.be/LKzqxXDJxq4"
+        },
+        {
+          "titulo": "S03E02 Pingu at the Museum",
+          "url": "https://youtu.be/sM6aLp1tAhI"
+        },
+        {
+          "titulo": "S03E03 Pingu's Grandpa Comes to Stay",
+          "url": "https://youtu.be/1it2Cwnauy0"
+        },
+        {
+          "titulo": "S03E04 Pingu's Long Journey",
+          "url": "https://youtu.be/EEPNnLCC_Eo"
+        },
+        {
+          "titulo": "S03E05 Pingu Pretends to be Ill",
+          "url": "https://youtu.be/nYVHMmkBKxU"
+        }
+      ]
+    },
+    {
+      "titulo": "Quarta Temporada",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Temporada 4: 1998-2000",
+        "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62sDmltWbq7uNvZbKIVSJXvc"
+      },
+      "videos": [
+        {
+          "titulo": "S04E01 Pingu's Disadvantage",
+          "url": "https://youtu.be/LXM47H7eNf0"
+        },
+        {
+          "titulo": "S04E02 Pingu Refuses To Help",
+          "url": "https://youtu.be/j-CB7dc70i4"
+        },
+        {
+          "titulo": "S04E03 Pingu the Mountaineer",
+          "url": "https://youtu.be/OTL6a_D-nx0"
+        },
+        {
+          "titulo": "S04E04 Pingu and the Big Fish",
+          "url": "https://youtu.be/qhONG9MMebk"
+        },
+        {
+          "titulo": "S04E05 Pingu Shows What He Can Do",
+          "url": "https://youtu.be/3eoeewbMii4"
+        }
+      ]
+    },
+    {
+      "titulo": "Quinta Temporada",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Temporada 5: 2003-2004",
+        "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62umZqgLuEoyvgTuag8X8B2d"
+      },
+      "videos": [
+        {
+          "titulo": "S05E01 Pingu's Bouncy Fun",
+          "url": "https://youtu.be/K2B6Ke4YXhI"
+        },
+        {
+          "titulo": "S05E02 Pingu Finishes the Job",
+          "url": "https://youtu.be/M7XVxXfcpLM"
+        },
+        {
+          "titulo": "S05E03 Pingu Digs a Hole",
+          "url": "https://youtu.be/Dp4pnbUmkA4"
+        },
+        {
+          "titulo": "S05E04 Pingu's Valentine Card",
+          "url": "https://youtu.be/I0m0RA2tpbU"
+        },
+        {
+          "titulo": "S05E05 Pingu Wants to Fly",
+          "url": "https://youtu.be/iEpmRn41ar0"
+        }
+      ]
+    },
+    {
+      "titulo": "Pack de Figurinhas",
+      "cor": "#DB202C",
+      "link_extra": {
+        "text": "Baixe as figurinhas do Pingu!",
+        "url": "/"
+      },
+      "videos": [
+        {
+          "titulo": "Pack de Figurinhas",
+          "url": "/"
+        }
+      ]
+    }
+  ]
+}
