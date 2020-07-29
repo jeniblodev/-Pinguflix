@@ -10,7 +10,7 @@ function Menu() {
                 <img className='logo' src={Logo} alt='Logo Pinguflix'></img>
             </a>
 
-            <BotaoLink className='botaoLink' href='/'>
+            <BotaoLink className='botaoLink' href='/cadastro/video'>
                 Novo vídeo
             </BotaoLink>
         </nav>

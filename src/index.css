@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
+  
 }
 
 :root {
@@ -18,8 +19,30 @@ html,
 body {
   margin: 0;
   padding: 0;
+  background-color: #141414;
 }
 
 a {
   color: inherit;
 } 
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
+
+.Erro404 {
+  text-align: center;
+  color: #FFDAB9;
+  font-size: 20px;
+  
+}
+
+.Erro404 .perdido {
+  height: 375px;
+  width: 500px;
+  border-radius: 20%;
+  margin-top: 30px;
+}
+
