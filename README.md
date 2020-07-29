@@ -23,5 +23,5 @@ Pinguflix. Uma aplicação web que reúne todas as temporadas da animação Ping
 
 ## 🖼️ Resultado
 
-![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_01.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_02.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_03.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_04.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_05.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_01_pq.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_02_pq.PNG)
+![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_01.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_02.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_03.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_04.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_05.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Pg_error.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_01_pq.PNG) ![](https://github.com/jeniblodev/-Pinguflix/blob/master/projeto/Home_02_pq.PNG)
 
