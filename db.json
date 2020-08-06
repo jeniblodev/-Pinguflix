@@ -1,0 +1,57 @@
+{
+    "categorias": [
+      {
+        "id": 1,
+        "titulo": "Primeira Temporada",
+        "cor": "#DB202C",
+        "link_extra": {
+          "text": "Temporada 1: 1986-1990",
+          "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62umYUGm4eN1N1RCC6g5cta2"
+        }
+      },
+      {
+        "id": 2,
+        "titulo": "Segunda Temporada",
+        "cor": "#DB202C",
+        "link_extra": {
+          "text": "Temporada 2: 1991-1994",
+          "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62tZxS5J9465ScUFLbW8Ou2F"
+        }
+      },
+      {
+        "id": 3,
+        "titulo": "Terceira Temporada",
+        "cor": "#DB202C",
+        "link_extra": {
+          "text": "Temporada 3: 1995-1996",
+          "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62tVmLHkz8M67GgNB9rsJRP1"
+        }
+      },
+      {
+        "id": 4,
+        "titulo": "Quarta Temporada",
+        "cor": "#DB202C",
+        "link_extra": {
+          "text": "Temporada 4: 1998-2000",
+          "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62sDmltWbq7uNvZbKIVSJXvc"
+        }
+      },
+      {
+        "id": 5,
+        "titulo": "Quinta Temporada",
+        "cor": "#DB202C",
+        "link_extra": {
+          "text": "Temporada 5: 2003-2004",
+          "url": "https://www.youtube.com/playlist?list=PL-tUCRsOC62umZqgLuEoyvgTuag8X8B2d"
+        }
+      }
+     ],
+    "videos": [
+      {
+        "id": 1,
+        "categoriaId": 1,
+        "titulo": "SEO com React",
+        "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      }
+    ]
+  }
