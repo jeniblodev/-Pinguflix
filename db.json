@@ -48,10 +48,477 @@
     ],
     "videos": [
         {
-          "id": 1,
-          "categoriaId": 1,
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "S01E01 Hello Pingu",
+            "url": "https://youtu.be/zxkEHlTj_3c"
+        },
+        {
+            "id": 2,
+            "categoriaId": 1,
+            "titulo": "S01E02 Pingu Looks After the Egg",
+            "url": "https://youtu.be/o7eX4OORLfk"
+        },
+        {
+            "id": 3,
+            "categoriaId": 1,
+            "titulo": "S01E03 The New Arrival",
+            "url": "https://www.youtube.com/watch?v=vPQCctoUFus&list=PL-tUCRsOC62umYUGm4eN1N1RCC6g5cta2&index=3"
+        },
+        {
+            "id": 4,
+            "categoriaId": 1,
+            "titulo": "S01E04 Pingu Goes Fishing",
+            "url": "https://youtu.be/z_Uh5YoWbNM"
+        },
+        {
+            "id": 5,
+            "categoriaId": 1,
+            "titulo": "S01E05 Pingu Delivers the Mail",
+            "url": "https://youtu.be/_-S7t7McYmw"
+        },
+        {
+            "id": 6,
+            "categoriaId": 1,
+            "titulo": "S01E06 Jealousy",
+            "url": "https://youtu.be/tSGM3fO0hFY"
+        },
+        {
+            "id": 7,
+            "categoriaId": 1,
+            "titulo": "S01E07 Hide and Seek",
+            "url": "https://youtu.be/RB-W0LdWHKg"
+        },
+        {
+            "id": 8,
+            "categoriaId": 1,
+            "titulo": "S01E08 Lost Baby",
+            "url": "https://youtu.be/V1kSqn8KTkM"
+        },
+        {
+            "id": 9,
+            "categoriaId": 1,
+            "titulo": "S01E09 Pingu Plays Fish Tennis",
+            "url": "https://youtu.be/2pDB7cZmllk"
+        },
+        {
+            "id": 10,
+            "categoriaId": 1,
+            "titulo": "S01E10 Barrel of Fun",
+            "url": "https://youtu.be/Vqvi6pFLCGA"
+        },
+        {
+            "id": 11,
+            "categoriaId": 1,
+            "titulo": "S01E11 Ice Hockey",
+            "url": "https://youtu.be/iTXXb5gGwH4"
+        },
+        {
+            "id": 12,
+            "categoriaId": 1,
+            "titulo": "S01E12 Pingu and Pinga Stay Up",
+            "url": "https://youtu.be/5bMNtEmXbGU"
+        },
+        {
+            "id": 13,
+            "categoriaId": 1,
+            "titulo": "S01E13 Skiing",
+            "url": "https://youtu.be/zHb7V2GszNw"
+        },
+        {
+            "id": 14,
+            "categoriaId": 1,
+            "titulo": "S01E14 Pingu Runs Away",
+            "url": "https://youtu.be/KrTjPaz_uHI"
+        },
+        {
+            "id": 15,
+            "categoriaId": 1,
+            "titulo": "S01E15 Building Igloos",
+            "url": "https://youtu.be/pRoW7PdtjI4"
+        },
+        {
+            "id": 16,
+            "categoriaId": 1,
+            "titulo": "S01E16 Music Lessons",
+            "url": "https://youtu.be/4U7sJtAATxg"
+        },
+        {
+            "id": 17,
+            "categoriaId": 1,
+            "titulo": "S01E17 Pingu's Ice Cave",
+            "url": "https://youtu.be/CVkEaKuygio"
+        },
+        {
+            "id": 18,
+            "categoriaId": 1,
+            "titulo": "S01E18 Sledging",
+            "url": "https://youtu.be/FOoCBiMoftw"
+        },
+        {
+            "id": 19,
+            "categoriaId": 1,
+            "titulo": "S01E19 Little Accidents",
+            "url": "https://youtu.be/LlHiJ3r4nhc"
+        },
+        {
+            "id": 20,
+            "categoriaId": 1,
+            "titulo": "S01E20 School Time",
+            "url": "https://youtu.be/puGLXexSZuM"
+        },
+        {
+            "id": 21,
+            "categoriaId": 1,
+            "titulo": "S01E21 Grandpa is Ill",
+            "url": "https://youtu.be/uQmz2YKf1C4"
+        },
+        {
+            "id": 22,
+            "categoriaId": 1,
+            "titulo": "S01E22 Pingu's Circus",
+            "url": "https://youtu.be/tQ1Swb4Z4xw"
+        },
+        {
+            "id": 23,
+            "categoriaId": 1,
+            "titulo": "S01E23 Pingu and the Barrel Organ",
+            "url": "https://youtu.be/TUpC_NKE_oY"
+        },
+        {
+            "id": 24,
+            "categoriaId": 1,
+            "titulo": "S01E24 Noise",
+            "url": "https://youtu.be/XhnhX3sX1-I"
+        },
+        {
+            "id": 25,
+            "categoriaId": 1,
+            "titulo": "S01E25 Pingu and Pinga at Home",
+            "url": "https://youtu.be/ovHVSGQ25pg"
+        },
+        {
+            "id": 26,
+            "categoriaId": 1,
+            "titulo": "S01E26 Pingu's Dream",
+            "url": "https://youtu.be/sDvqFqR8R44"
+        },
+        {
+            "id": 27,
+            "categoriaId": 2,
+            "titulo": "S02E01 Pingu at the Doctor's",
+            "url": "https://youtu.be/-jTy068ZKZE"
+        },
+        {
+            "id": 28,
+            "categoriaId": 2,
+            "titulo": "S02E02 Pingu's Admirer",
+            "url": "https://youtu.be/MX9CKWkQAqE"
+        },
+        {
+            "id": 29,
+            "categoriaId": 2,
+            "titulo": "S02E03 Pingu and the Seagull",
+            "url": "https://youtu.be/UKFQPVrAIZk"
+        },
+        {
+            "id": 30,
+            "categoriaId": 2,
+            "titulo": "S02E04 Pingu Goes Ice Surfing",
+            "url": "https://youtu.be/mrzHDiP9E9U"
+        },
+        {
+            "id": 31,
+            "categoriaId": 2,
+            "titulo": "S02E05 Pingu's First Kiss",
+            "url": "https://youtu.be/4z7zjuSvCso"
+        },
+        {
+            "id": 32,
+            "categoriaId": 2,
+            "titulo": "S02E06 Pingu's Curling Game",
+            "url": "https://youtu.be/FZ6-rUm5m3M"
+        },
+        {
+            "id": 33,
+            "categoriaId": 2,
+            "titulo": "S02E07 Pingu's Family Celebrate Christmas",
+            "url": "https://youtu.be/chPjJBe204M"
+        },
+        {
+            "id": 34,
+            "categoriaId": 2,
+            "titulo": "S02E08 Pingu the Icicle Musician",
+            "url": "https://youtu.be/Yn8XnxfNG30"
+        },
+        {
+            "id": 35,
+            "categoriaId": 2,
+            "titulo": "S02E09 Pingu the Chef",
+            "url": "https://youtu.be/xgU08Cf3YvE"
+        },
+        {
+            "id": 36,
+            "categoriaId": 2,
+            "titulo": "S02E10 Pingu Goes Away",
+            "url": "https://youtu.be/0V_McmzI3hg"
+        },
+        {
+            "id": 37,
+            "categoriaId": 2,
+            "titulo": "S02E11 Pingu the Photographer",
+            "url": "https://youtu.be/je4oVgbNSsA"
+        },
+        {
+            "id": 38,
+            "categoriaId": 2,
+            "titulo": "S02E12 Pingu's New Kite",
+            "url": "https://youtu.be/qel_qwY0x6Y"
+        },
+        {
+            "id": 39,
+            "categoriaId": 2,
+            "titulo": "S02E13 Pingu and the Many Packages",
+            "url": "https://youtu.be/JdnqWWyofUA"
+        },
+        {
+            "id": 40,
+            "categoriaId": 2,
+            "titulo": "S02E14 Pingu the Conjurer's Apprentice",
+            "url": "https://youtu.be/rWv3_rE5yxE"
+        },
+        {
+            "id": 41,
+            "categoriaId": 2,
+            "titulo": "S02E15 Pingu's Birthday",
+            "url": "https://youtu.be/IrRos5EbsQc"
+        },
+        {
+            "id": 42,
+            "categoriaId": 2,
+            "titulo": "S02E16 Pingu at the Funfair",
+            "url": "https://youtu.be/2sIW47Hx2Jg"
+        },
+        {
+            "id": 43,
+            "categoriaId": 2,
+            "titulo": "S02E17 Pingu the Babysitter",
+            "url": "https://youtu.be/dlgKfTNI5M4"
+        },
+        {
+            "id": 44,
+            "categoriaId": 2,
+            "titulo": "S02E18 Pingu Cannot Lose",
+            "url": "https://youtu.be/SzvtCMm2YOw"
+        },
+        {
+            "id": 45,
+            "categoriaId": 2,
+            "titulo": "S02E19 Pingu and the Game of Fish",
+            "url": "https://youtu.be/q9S4vXf63GU"
+        },
+        {
+            "id": 46,
+            "categoriaId": 2,
+            "titulo": "S02E20 Pingu Gets a Bicycle",
+            "url": "https://youtu.be/lGtdfZ5od_k"
+        },
+        {
+            "id": 47,
+            "categoriaId": 2,
+            "titulo": "S02E21 Pingu's Visit to the Hospital",
+            "url": "https://youtu.be/IduZ0ZK2BN8"
+        },
+
+        {
+            "id": 48,
+            "categoriaId": 2,
+            "titulo": "S02E22 Pingu on the School Excursion",
+            "url": "https://youtu.be/TSQtwG5z9JE"
+        },
+        {
+            "id": 49,
+            "categoriaId": 2,
+            "titulo": "S02E23 Pingu and Pinga at Kindergarten",
+            "url": "https://youtu.be/3rcPURJ70G0"
+        },
+        {
+            "id": 50,
+            "categoriaId": 2,
+            "titulo": "S02E24 Pingu and the Strangers",
+            "url": "https://youtu.be/RDSvP3pNYcE"
+        },{
+            "id": 51,
+            "categoriaId": 2,
+            "titulo": "S02E25 Pingu Helps His Mother",
+            "url": "https://youtu.be/RS6BagpCr1s"
+        },
+        {
+            "id": 52,
+            "categoriaId": 2,
+            "titulo": "S02E26 Pingu Builds a Snowman",
+            "url": "https://youtu.be/iwf-i0U2bto"
+        },
+        {
+            "id": 53,
+            "categoriaId": 3,
+            "titulo": "S03E01 Pingu Goes Cross Country Skiing",
+            "url": "https://youtu.be/LKzqxXDJxq4"
+        },
+        {
+            "id": 54,
+            "categoriaId": 3,
+            "titulo": "S03E02 Pingu at the Museum",
+            "url": "https://youtu.be/sM6aLp1tAhI"
+        },
+        {
+            "id": 55,
+            "categoriaId": 3,
+            "titulo": "S03E03 Pingu's Grandpa Comes to Stay",
+            "url": "https://youtu.be/1it2Cwnauy0"
+        },
+        {
+            "id": 56,
+            "categoriaId": 3,
+            "titulo": "S03E04 Pingu's Long Journey",
+            "url": "https://youtu.be/EEPNnLCC_Eo"
+        },
+        {
+            "id": 57,
+            "categoriaId": 3,
+            "titulo": "S03E05 Pingu Pretends to be Ill",
+            "url": "https://youtu.be/nYVHMmkBKxU"
+        },
+        {
+            "id": 58,
+            "categoriaId": 3,
+            "titulo": "S03E06 Pingu the Painter",
+            "url": "https://youtu.be/m4yiNosFcGE"
+        },
+        {
+            "id": 59,
+            "categoriaId": 3,
+            "titulo": "S03E07 Pingu's Trick",
+            "url": "https://youtu.be/lW618RYCwug"
+        },
+        {
+            "id": 60,
+            "categoriaId": 3,
+            "titulo": "S03E08 Pingu and the Mother Bird",
+            "url": "https://youtu.be/e2tSnz7MGnE"
+        },
+        {
+            "id": 61,
+            "categoriaId": 3,
+            "titulo": "S03E09 Pingu Quarrels With His Mother",
+            "url": "https://youtu.be/Gv_UXrl28SE"
+        },
+        {
+            "id": 62,
+            "categoriaId": 3,
+            "titulo": "S03E10 Pingu and the Message in a Bottle",
+            "url": "https://youtu.be/ErgmmJU3Mfg"
+        },
+        {
+            "id": 63,
+            "categoriaId": 3,
+            "titulo": "S03E11 Pingu Has an Idea",
+            "url": "https://youtu.be/LlTB4k_Y7N4"
+        },
+        {
+            "id": 64,
+            "categoriaId": 3,
+            "titulo": "S03E12 Pingu Breaks a Vase",
+            "url": "https://youtu.be/u5e48SmVKHI"
+        },
+        {
+            "id": 65,
+            "categoriaId": 3,
+            "titulo": "S03E13 Pingu and the Paper Plane",
+            "url": "https://youtu.be/-luKOVL2rQ0"
+        },
+        {
+            "id": 66,
+            "categoriaId": 3,
+            "titulo": "S03E14 Pingu Takes Revenge",
+            "url": "https://youtu.be/MtZcayJ7X_Q"
+        },
+        {
+            "id": 67,
+            "categoriaId": 3,
+            "titulo": "S03E15 Pingu Makes a Mistake",
+            "url": "https://youtu.be/gdiGIylAavw"
+        },
+        {
+            "id": 68,
+            "categoriaId": 3,
+            "titulo": "S03E16 Pingu and the Toy",
+            "url": "https://youtu.be/lbVk1MmHaU8"
+        },
+        {
+            "id": 69,
+            "categoriaId": 3,
+            "titulo": "S03E17 Pingu the Superhero",
+            "url": "https://youtu.be/8mnalsCfoLY"
+        },
+        {
+            "id": 70,
+            "categoriaId": 3,
+            "titulo": "S03E18 Pingu and the Fishing Competition",
+            "url": "https://youtu.be/qyqZ2UXyXfg"
+        },
+        {
+            "id": 71,
+            "categoriaId": 3,
+            "titulo": "S03E19 Pingu and the Letter",
+            "url": "https://youtu.be/FPQqw1tyLkg"
+        },
+        {
+            "id": 72,
+            "categoriaId": 3,
+            "titulo": "S03E20 Pingu Feels Left Out",
+            "url": "https://youtu.be/n0GPcMmxiz4"
+        },
+        {
+            "id": 73,
+            "categoriaId": 3,
+            "titulo": "S03E21 Pingu Wins First Prize",
+            "url": "https://youtu.be/lSzszRAKeFI"
+        },
+        {
+            "id": 74,
+            "categoriaId": 3,
+            "titulo": "S03E22 Pingu and the Ghost",
+            "url": "https://youtu.be/7jYP3T4YZp4"
+        },
+        {
+            "id": 75,
+            "categoriaId": 3,
+            "titulo": "S03E23 Pingu and the Postcard",
+            "url": "https://youtu.be/Kycqgj3kv7U"
+        },
+        {
+            "id": 76,
+            "categoriaId": 3,
+            "titulo": "S03E24 Pingu's Discovery",
+            "url": "https://youtu.be/0eB67hg1-NU"
+        },
+        {
+            "id": 77,
+            "categoriaId": 3,
+            "titulo": "S03E25 Pingu and the Baker",
+            "url": "https://youtu.be/GXSdkymfcSk"
+        },
+        {
+            "id": 78,
+            "categoriaId": 3,
+            "titulo": "S03E26 Pingu and the Lost Ball",
+             "url": "https://youtu.be/0pkHUPDJTNw"
+        },
+        {
+            "id": ,
+            "categoriaId": 3,
+            
         }
     ]
     
