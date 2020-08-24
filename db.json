@@ -516,9 +516,190 @@
              "url": "https://youtu.be/0pkHUPDJTNw"
         },
         {
-            "id": ,
-            "categoriaId": 3,
-            
+            "id": 79,
+            "categoriaId": 4,
+            "titulo": "S04E01 Pingu's Disadvantage",
+            "url": "https://youtu.be/LXM47H7eNf0"
+        },
+        {
+            "id": 80,
+            "categoriaId": 4,
+            "titulo": "S04E02 Pingu Refuses To Help",
+            "url": "https://youtu.be/j-CB7dc70i4"
+        },
+        {
+            "id": 81,
+            "categoriaId": 4,
+            "titulo": "S04E03 Pingu the Mountaineer",
+            "url": "https://youtu.be/OTL6a_D-nx0"
+        },
+        {
+            "id": 82,
+            "categoriaId": 4,
+            "titulo": "S04E04 Pingu and the Big Fish",
+            "url": "https://youtu.be/qhONG9MMebk"
+        },
+        {
+            "id": 83,
+            "categoriaId": 4,
+            "titulo": "S04E05 Pingu Shows What He Can Do",
+            "url": "https://youtu.be/3eoeewbMii4"
+        },
+        {
+            "id": 84,
+            "categoriaId": 4,
+            "titulo": "S04E06 Pingu Clears the Snow",
+            "url": "https://youtu.be/YbgJBYUj8Qc"
+        },
+        {
+            "id": 85,
+            "categoriaId": 4,
+            "titulo": "S04E07 Pingu Has a Day Off",
+            "url": "https://youtu.be/EHLKEzqdGq4"
+        },
+        {
+            "id": 86,
+            "categoriaId": 4,
+            "titulo": "S04E08 Pingu the Archer",
+            "url": "https://youtu.be/L6D4i4Yz2-8"
+        },
+        {
+            "id": 87,
+            "categoriaId": 4,
+            "titulo": "S04E09 Pingu Gets a Warning",
+            "url": "https://youtu.be/-RwfljUsmTk"
+        },
+        {
+            "id": 88,
+            "categoriaId": 4,
+            "titulo": "S04E10 Pingu and the Magnet",
+            "url": "https://youtu.be/RRWrYLG9td0"
+        },
+        {
+            "id": 89,
+            "categoriaId": 4,
+            "titulo": "S04E11 Pingu Gets Help",
+            "url": "https://youtu.be/XFzw9SdP100"
+        },
+        {
+            "id": 90,
+            "categoriaId": 4,
+            "titulo": "S04E12 Pingu in Paradise",
+            "url": "https://youtu.be/gMe8NCBfw94"
+        },
+        {
+            "id": 91,
+            "categoriaId": 4,
+            "titulo": "S04E13 Pingu's Dangerous Joke",
+            "url": "https://youtu.be/i-Z9I6K8gGk"
+        },
+        {
+            "id": 92,
+            "categoriaId": 4,
+            "titulo": "S04E14 Pingu the Pilot",
+            "url": "https://youtu.be/k6GU8M6I-kA"
+        },
+        {
+            "id": 93,
+            "categoriaId": 4,
+            "titulo": "S04E15 Pingu Teases Pinga",
+            "url": "https://youtu.be/hVRcEZt2Nao"
+        },
+        {
+            "id": 94,
+            "categoriaId": 4,
+            "titulo": "S04E16 Pingu's Wish",
+            "url": "https://youtu.be/ni0PC7_1-bw"
+        },
+        {
+            "id": 95,
+            "categoriaId": 4,
+            "titulo": "S04E17 Pingu is Curious",
+            "url": "https://youtu.be/xw9Z0nFZ-4g"
+        },
+        {
+            "id": 96,
+            "categoriaId": 4,
+            "titulo": "S04E18 Pingu Gets Organised",
+            "url": "https://youtu.be/yh9q-JcUMDQ"
+        },
+        {
+            "id": 97,
+            "categoriaId": 4,
+            "titulo": "S04E19 Pingu Builds a Tower",
+            "url": "https://youtu.be/ejD9yUmVpz4"
+        },
+        {
+            "id": 98,
+            "categoriaId": 4,
+            "titulo": "S04E20 Pingu the King",
+            "url": "https://youtu.be/U1ehlwbBS84"
+        },
+        {
+            "id": 99,
+            "categoriaId": 4,
+            "titulo": "S04E21 Pingu the Baker",
+            "url": "https://youtu.be/BKPhA8RVcuM"
+        },
+        {
+            "id": 100,
+            "categoriaId": 4,
+            "titulo": "S04E22 Pingu and the Doll",
+            "url": "https://youtu.be/CFJdYjgXLBU"
+        },
+        {
+            "id": 101,
+            "categoriaId": 4,
+            "titulo": "S04E23 Pingu Helps Grandfather",
+            "url": "https://youtu.be/TYFmUYBI6Zg"
+        },
+        {
+            "id": 102,
+            "categoriaId": 4,
+            "titulo": "S04E24 Pingu Has a Bad Day",
+            "url": "https://youtu.be/XjCUxocxvAg"
+        },
+        {
+            "id": 103,
+            "categoriaId": 4,
+            "titulo": "S04E25 Pingu Loses the Bet",
+            "url": "https://youtu.be/jQ6W2Wt6frM"
+        },
+        {
+            "id": 104,
+            "categoriaId": 4,
+            "titulo": "S04E26 Pingu and His Cup",
+            "url": "https://youtu.be/U9rbaSXohdQ"
+        },
+        {
+            "id": 105,
+            "categoriaId": 5,
+            "titulo": "S05E01 Pingu's Bouncy Fun",
+            "url": "https://youtu.be/K2B6Ke4YXhI"
+        },
+        {
+            "id": 106,
+            "categoriaId": 5,
+            "titulo": "S05E02 Pingu Finishes the Job",
+            "url": "https://youtu.be/M7XVxXfcpLM"
+        },
+        {
+            "id": 107,
+            "categoriaId": 5,
+            "titulo": "S05E03 Pingu Digs a Hole",
+            "url": "https://youtu.be/Dp4pnbUmkA4"
+        },
+        {
+            "id": 108,
+            "categoriaId": 5,
+            "titulo": "S05E04 Pingu's Valentine Card",
+            "url": "https://youtu.be/I0m0RA2tpbU"
+        },
+        {
+            "id": 109,
+            "categoriaId": 5,
+            "titulo": "S05E05 Pingu Wants to Fly",
+            "url": "https://youtu.be/iEpmRn41ar0"
         }
     ]
     
